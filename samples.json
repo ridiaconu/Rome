@@ -1,0 +1,181 @@
+{
+  "test_graph": {
+    "1": {
+      "source": "A",
+      "target": "B",
+      "weight": 1
+    },
+    "2": {
+      "source": "B",
+      "target": "C",
+      "weight": 5
+    },
+    "3": {
+      "source": "C",
+      "target": "D",
+      "weight": 12
+    },
+    "4": {
+      "source": "D",
+      "target": "E",
+      "weight": 4
+    },
+    "5": {
+      "source": "E",
+      "target": "F",
+      "weight": 6
+    },
+    "6": {
+      "source": "F",
+      "target": "G",
+      "weight": 10
+    },
+    "7": {
+      "source": "A",
+      "target": "T",
+      "weight": 9
+    },
+    "8": {
+      "source": "T",
+      "target": "W",
+      "weight": 9
+    },
+    "9": {
+      "source": "W",
+      "target": "X",
+      "weight": 9
+    },
+    "10": {
+      "source": "X",
+      "target": "Y",
+      "weight": 9
+    },
+    "11": {
+      "source": "Y",
+      "target": "Z",
+      "weight": 9
+    },
+    "12": {
+      "source": "Z",
+      "target": "G",
+      "weight": 9
+    }
+  },
+  "romania": {
+    "1": {
+      "source": "Craiova",
+      "target": "Drobeta",
+      "weight": 120
+    },
+    "2": {
+      "source": "Craiova",
+      "target": "Pitesti",
+      "weight": 138
+    },
+    "3": {
+      "source": "Craiova",
+      "target": "Valcea",
+      "weight": 146
+    },
+    "4": {
+      "source": "Drobeta",
+      "target": "Mehadia",
+      "weight": 75
+    },
+    "5": {
+      "source": "Pitesti",
+      "target": "Bucuresti",
+      "weight": 101
+    },
+    "6": {
+      "source": "Pitesti",
+      "target": "Valcea",
+      "weight": 97
+    },
+    "7": {
+      "source": "Valcea",
+      "target": "Sibiu",
+      "weight": 80
+    },
+    "8": {
+      "source": "Mehadia",
+      "target": "Lugoj",
+      "weight": 70
+    },
+    "9": {
+      "source": "Bucuresti",
+      "target": "Giurgiu",
+      "weight": 90
+    },
+    "10": {
+      "source": "Bucuresti",
+      "target": "Urziceni",
+      "weight": 85
+    },
+    "11": {
+      "source": "Bucuresti",
+      "target": "Fagaras",
+      "weight": 211
+    },
+    "12": {
+      "source": "Sibiu",
+      "target": "Arad",
+      "weight": 140
+    },
+    "13": {
+      "source": "Sibiu",
+      "target": "Oradea",
+      "weight": 151
+    },
+    "14": {
+      "source": "Sibiu",
+      "target": "Fagaras",
+      "weight": 99
+    },
+    "15": {
+      "source": "Lugoj",
+      "target": "Timisoara",
+      "weight": 111
+    },
+    "16": {
+      "source": "Urziceni",
+      "target": "Hirsova",
+      "weight": 98
+    },
+    "17": {
+      "source": "Urziceni",
+      "target": "Vaslui",
+      "weight": 142
+    },
+    "18": {
+      "source": "Arad",
+      "target": "Zerind",
+      "weight": 75
+    },
+    "19": {
+      "source": "Arad",
+      "target": "Timisoara",
+      "weight": 118
+    },
+    "20": {
+      "source": "Oradea",
+      "target": "Zerind",
+      "weight": 71
+    },
+    "21": {
+      "source": "Hirsova",
+      "target": "Eforie",
+      "weight": 86
+    },
+    "22": {
+      "source": "Vaslui",
+      "target": "Iasi",
+      "weight": 92
+    },
+    "23": {
+      "source": "Iasi",
+      "target": "Neamt",
+      "weight": 87
+    }
+  }
+}
